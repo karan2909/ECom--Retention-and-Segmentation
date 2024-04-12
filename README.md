@@ -23,4 +23,4 @@ Customers are segmented into different clusters based on:
 - Monetary: Average Order Value per customer basket
 
 ![Segmentation Plot](Segmentation.png)
-![Retention Plot](Retention_Plot.png)
+![Retention Plot](RFM_segmentation.png)
