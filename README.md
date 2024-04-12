@@ -8,8 +8,8 @@ Transcation data for ecommerce online store selling gift items from 2010 to 2011
 2) EDA
 
 
-3) Feature Engineering
-
+3) **Feature Engineering
+**
 RFM Features - Recency, Tenure, Frequency, Monetary
 
 Product Diversity - No. of Products Purchased
