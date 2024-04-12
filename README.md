@@ -24,7 +24,7 @@ Cancellation Features - Cancelled Flag, No. of cancelled orders
 
 4) Retention
 
-![Alt text](RFM_segmentation.png)
+![Alt text](Retention_Plot.png)
 
 
 5) Customer Segmentation
