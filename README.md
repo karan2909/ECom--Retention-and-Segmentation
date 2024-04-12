@@ -36,4 +36,8 @@ b) Frequency - How often the customers are doing transcation
 
 c) Monetary - Average Order Value per customer basket
 
-![Alt text](path/to/image.png)
+![Alt text](Segmentation.png)
+
+![Alt text](Retention_Plot.png)
+
+
